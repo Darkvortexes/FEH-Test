@@ -8,7 +8,7 @@
     android:background="@mipmap/fehcastle">
 
     <Button
-        android:id="@+id/Heroes"
+        android:id="@+id/buttonHeroes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -24,7 +24,7 @@
         app:layout_constraintVertical_bias="0.14" />
 
     <Button
-        android:id="@+id/Weapons"
+        android:id="@+id/buttonWeapons"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -41,7 +41,7 @@
         app:layout_constraintVertical_bias="0.369" />
 
     <Button
-        android:id="@+id/Skills"
+        android:id="@+id/buttonSkills"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -58,7 +58,7 @@
         app:layout_constraintVertical_bias="0.369" />
 
     <Button
-        android:id="@+id/Specials"
+        android:id="@+id/buttonSpecials"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -75,7 +75,7 @@
         app:layout_constraintVertical_bias="0.691" />
 
     <Button
-        android:id="@+id/Assists"
+        android:id="@+id/buttonAssists"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -92,7 +92,7 @@
         app:layout_constraintVertical_bias="0.691" />
 
     <Button
-        android:id="@+id/Quit"
+        android:id="@+id/buttonQuit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
